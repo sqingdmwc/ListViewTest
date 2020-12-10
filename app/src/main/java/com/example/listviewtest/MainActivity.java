@@ -14,6 +14,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+    //I add something here.
     /*
     private String[] data = {"Apple", "Banana", "Orange", "Watermelon", "Pear", "Grape", "Pineapple", "Strawberry",
             "Cherry", "Mango", "Apple", "Banana", "Orange", "Watermelon", "Pear", "Grape", "Pineapple", "Strawberry",
